@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 Deployment block
 
 ## How to contribute
+
+Details of how to work in the project
