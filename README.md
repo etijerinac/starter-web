@@ -10,7 +10,7 @@ And then more details...
 ## Purpose
 
 Sample website with plenty of files for demos
-Mor info on purpose
+More info on purpose
 
 ## Deployment
 
