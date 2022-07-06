@@ -19,3 +19,7 @@ Deployment block
 ## How to contribute
 
 Details of how to work in the project
+
+### Copyright
+
+Git. training
