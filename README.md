@@ -19,6 +19,7 @@ Deployment block
 ## How to contribute
 
 Details of how to work in the project
+Other changes on contribute
 
 ### Copyright
 
