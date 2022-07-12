@@ -29,4 +29,4 @@ Other things
 
 ### Copyright
 
-Git. training
+Git. training, and more training...
