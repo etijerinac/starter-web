@@ -22,11 +22,8 @@ More text on deployment
 ## How to contribute
 
 Details of how to work in the project
-<<<<<<< HEAD
 Other changes on contribute
-=======
 Other things
->>>>>>> simple-changes
 
 ### Copyright
 
